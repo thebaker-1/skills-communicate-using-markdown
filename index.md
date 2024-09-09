@@ -10,3 +10,6 @@ this are the header styles in github for h1 and h2
 ``` python
 print("hello world")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
